@@ -1,0 +1,5 @@
+example\GmailLoginTest.class
+SeleniumHelpers\CustomWaits.class
+SeleniumHelpers\PropertyFileReader.class
+example\GmailSendMailTest.class
+SeleniumHelpers\DriverHelper.class

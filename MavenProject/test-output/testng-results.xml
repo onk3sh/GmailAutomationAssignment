@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="112502" started-at="2018-11-25T12:54:54Z" finished-at="2018-11-25T12:56:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="112502" started-at="2018-11-25T12:54:54Z" finished-at="2018-11-25T12:56:47Z">
+      <class name="example.GmailSendMailTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:example.GmailSendMailTest@5bcea91b]" name="setup" is-config="true" duration-ms="10774" started-at="2018-11-25T12:56:11Z" finished-at="2018-11-25T12:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSendMail()[pri:0, instance:example.GmailSendMailTest@5bcea91b]" name="testSendMail" duration-ms="21555" started-at="2018-11-25T12:56:22Z" finished-at="2018-11-25T12:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSendMail -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:example.GmailSendMailTest@5bcea91b]" name="teardown" is-config="true" duration-ms="3182" started-at="2018-11-25T12:56:44Z" finished-at="2018-11-25T12:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- example.GmailSendMailTest -->
+      <class name="example.GmailLoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="setup" is-config="true" duration-ms="17440" started-at="2018-11-25T12:54:54Z" finished-at="2018-11-25T12:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLoginSuccessful()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="testLoginSuccessful" duration-ms="21607" started-at="2018-11-25T12:55:12Z" finished-at="2018-11-25T12:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginSuccessful -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="teardown" is-config="true" duration-ms="3479" started-at="2018-11-25T12:55:33Z" finished-at="2018-11-25T12:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="setup" is-config="true" duration-ms="14044" started-at="2018-11-25T12:55:37Z" finished-at="2018-11-25T12:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLoginUnsuccessfulWrongPassword()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="testLoginUnsuccessfulWrongPassword" duration-ms="3487" started-at="2018-11-25T12:55:51Z" finished-at="2018-11-25T12:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginUnsuccessfulWrongPassword -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="teardown" is-config="true" duration-ms="2939" started-at="2018-11-25T12:55:54Z" finished-at="2018-11-25T12:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="setup" is-config="true" duration-ms="12302" started-at="2018-11-25T12:55:57Z" finished-at="2018-11-25T12:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLoginUnsuccessfulWrongUserName()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="testLoginUnsuccessfulWrongUserName" duration-ms="712" started-at="2018-11-25T12:56:10Z" finished-at="2018-11-25T12:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginUnsuccessfulWrongUserName -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:example.GmailLoginTest@12cdcf4]" name="teardown" is-config="true" duration-ms="925" started-at="2018-11-25T12:56:10Z" finished-at="2018-11-25T12:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- example.GmailLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -12,8 +12,9 @@ This is a sample project for Gmail automation using the following tech stack -
 
 
 ## Test Utilities Description
-CustomWaits - Utility that will contain all custom wait methods
-DriverHelper - Class with code for different webdriver objects
+- CustomWaits - Utility that will contain all custom wait methods
+- DriverHelper - Class with code for different webdriver objects
+- PropertiesFileReader - Class with code to read data from the properties file
 
 ## Commands
 
